@@ -13,12 +13,12 @@
 -        </svg>
       </a>
       
-      <a href="https://www.google.ru/" class="page-link">Google</a>
 
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <a href="https://www.google.ru/" class="page-link">Google</a>
           {% endif %}
         {% endfor %}
       </div>
