@@ -9,7 +9,7 @@
 title: Бложек
 email: asergienko@bk.ru
 description: > # this means to ignore newlines until "baseurl:"
-- здесь будет описание этого сайта, пока я не придумал о чем будет сайт и что сюда писать.
+здесь будет описание этого сайта, пока я не придумал о чем будет сайт и что сюда писать.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: alex_mhf
