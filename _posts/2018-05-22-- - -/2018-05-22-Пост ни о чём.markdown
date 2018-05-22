@@ -11,3 +11,4 @@ image: simons cat.png
 И все вроде бы хорошо!
 
 ![Image description](/_includes/simons cat.png)
+![My helpful screenshot]({{ "/_includes/simons cat.png" | absolute_url }})
