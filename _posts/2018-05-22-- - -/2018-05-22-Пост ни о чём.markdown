@@ -10,5 +10,4 @@ image: simons cat.png
 
 И все вроде бы хорошо!
 
- <img src="simons cat.png" style="max-width: 200px;"
-      alt="Cat" />
+![Image description](/images/simons cat.png)
