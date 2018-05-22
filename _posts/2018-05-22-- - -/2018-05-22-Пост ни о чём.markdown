@@ -10,4 +10,4 @@ image: simons cat.png
 
 И все вроде бы хорошо!
 
-![Image description](/images/simons cat.png)
+[Image description](/images/simons cat.png)
