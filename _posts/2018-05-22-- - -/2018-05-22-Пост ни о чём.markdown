@@ -3,6 +3,7 @@ layout: post
 title:  "Пост ни о чём"
 date:   2018-05-22 09:44:50 +0000
 categories: жизнь
+image: simons cat.jpg
 ---
 Просто вспомнил про этот сайт, блин так интересно это все делать, вставлять значки, искать шрифт в гугле, разбираться с {% highlight ruby %} css, sass, html{% endhighlight %}
 
