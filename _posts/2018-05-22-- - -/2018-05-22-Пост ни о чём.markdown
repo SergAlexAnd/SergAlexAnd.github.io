@@ -9,3 +9,6 @@ image: simons cat.jpg
 
 
 И все вроде бы хорошо!
+
+ <img src="simons cat.jpg" style="max-width: 200px;"
+      alt="Jekyll logo" />
