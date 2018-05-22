@@ -10,4 +10,4 @@ image: simons cat.png
 
 И все вроде бы хорошо!
 
-![Image description](/_inscludes/simons cat.png)
+![Image description](/_includes/simons cat.png)
