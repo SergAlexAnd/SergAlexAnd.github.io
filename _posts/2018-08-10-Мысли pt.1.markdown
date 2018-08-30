@@ -20,4 +20,4 @@ categories: жизнь
 Вроде бы всё. Все это вполне разрешимо.
 Надо держать себе всегда в осознанном состоянии, но я часто позволяю своим мозгам "засыпать".
 
-[Описание картинки](https://img5.goodfon.ru/wallpaper/big/7/1c/anastasiia-barmina-katerina-shiriaeva-devushka-poza-shorty-k.jpg "заголовок картинки")
+![Описание картинки](https://img5.goodfon.ru/wallpaper/big/7/1c/anastasiia-barmina-katerina-shiriaeva-devushka-poza-shorty-k.jpg "заголовок картинки")
