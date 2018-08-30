@@ -10,4 +10,4 @@ image: simons cat.png
 
 И все вроде бы хорошо!
 
-![SimonCat](/https://github.com/SergAlexAnd/SergAlexAnd.github.io/blob/master/_posts/2018-05-22--%20-%20-/simons%20cat.png)
+![SimonCat](https://github.com/SergAlexAnd/SergAlexAnd.github.io/blob/master/_posts/2018-05-22--%20-%20-/simons%20cat.png)
