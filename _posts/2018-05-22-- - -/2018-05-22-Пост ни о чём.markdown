@@ -10,3 +10,4 @@ image: simons cat.png
 
 И все вроде бы хорошо!
 
+![SimonCat](/simons cat.png)
