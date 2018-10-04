@@ -9,11 +9,11 @@ categories: заметки
 
 Для себя делаю заметки как инициализирвоать проект на `js`.
 Итак:
-### git
+# git
 
 ![just a picture](https://img4.goodfon.ru/original/1920x1080/2/21/github-git-octocat-programming-code-it-logo.jpg)
 
-##### настройка git
+## настройка git
 ```
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
@@ -25,13 +25,13 @@ color.status=auto
 ...
 ```
 
-##### .gitignore
+## .gitignore
 ```
 /node_modules/
 dist
 ```
 
-##### удаленные репозитории
+## удаленные репозитории
 ```
 $ git clone https://github.com/schacon/ticgit
 
@@ -49,18 +49,18 @@ pb	https://github.com/paulboone/ticgit (fetch)
 pb	https://github.com/paulboone/ticgit (push)
 ```
 
-### npm
+# npm
 ```
 $ npm init
 $ npm install -g nodejs-package
 ```
 
-### babel
+# babel
 ```
 $ npm install --save-dev @babel/core @babel/cli @babel/node @babel/preset-env
 $ npx babel src --out-dir dist
 ```
-##### .babelrc
+## .babelrc
 ```
 {
   "presets": [
@@ -79,7 +79,7 @@ $ npx babel src --out-dir dist
 ```
 $ npm install --save-dev cross-env
 ```
-##### package.json - scripts
+## package.json - scripts
 ```
 "build": "cross-env NODE_ENV=production babel src --out-dir dist --source-maps inline",
 "prepublishOnly": "npm run build"
