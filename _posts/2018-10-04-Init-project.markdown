@@ -86,7 +86,6 @@ $ npm install --save-dev cross-env
 ```
 Вроде пока всё, если что-то вспомню, допишу сюда.
 
-![a picture](https://img5.goodfon.ru/original/1920x1080/a/ea/nadpis-space-planeta-kosmos-grafika-risunok.jpg)
 
 
 
