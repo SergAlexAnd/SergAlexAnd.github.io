@@ -3,6 +3,7 @@ layout: post
 title:  "Мысли pt.4"
 date:   2018-09-24 01:14:00 +0000
 categories: жизнь
+comments: true
 ---
 Мысли pt.4
 ======
