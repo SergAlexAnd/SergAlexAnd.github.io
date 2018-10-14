@@ -3,7 +3,9 @@ layout: post
 title:  "Мысли pt.5"
 date:   2018-10-11 22:10:00 +0000
 categories: жизнь
+comments: true
 ---
+
 Мысли pt.5
 ======
 
