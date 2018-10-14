@@ -11,7 +11,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y, " }}</span>
-        <span class="post-meta">{{  post.categories }}, <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a></span>
+        <span class="post-meta">{{  post.categories }}, <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></span>
         
         
         <h2>
