@@ -34,8 +34,10 @@ permalink: /tags/
                 {% if group == null or group == post.group %}
                     <li class="item">
                         <a class="url" href="{{ site.url }}{{ post.url }}">
-                            <h4 class="title">{{ post.title }}<time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</h4>
+                            
+                            <h4 class="title">{{ post.title }}</h4>
                         </a>
+                        <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                     </li>
                 {% endif %}
             {% endif %}
