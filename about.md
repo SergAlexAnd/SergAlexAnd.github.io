@@ -3,7 +3,7 @@ layout: page
 title: Обо мне
 permalink: /about/
 headerImage: true
-image: /_assets/about-me-leon-severan-we-buy-houses.jpg
+image: /assets/about-me-leon-severan-we-buy-houses.jpg
 ---
 
 С августа 2018 года начал свой путь на [hexlet](https://ru.hexlet.io/u/coconut_alex){:target="_blank"}, пока не знаю, что из этого выйдет, завел блог, чтобы следить за своим прогрессом.  
