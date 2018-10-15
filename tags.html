@@ -10,11 +10,11 @@ permalink: /tags/
 
     {% if tags_list.first[0] == null %}
         {% for tag in tags_list %}
-            <a class="item" href="#{{ tag | slugify }}">{{ tag }}</a>
+            <a class="item" href="#{{ tag | slugify }}">#{{ tag }}</a>
         {% endfor %}
     {% else %}
         {% for tag in tags_list %}
-            <a class="item" href="#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+            <a class="item" href="#{{ tag[0] | slugify }}">#{{ tag[0] }}</a>
         {% endfor %}
     {% endif %}
 
