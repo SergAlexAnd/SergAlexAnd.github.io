@@ -107,18 +107,18 @@ a {
 }
 
 .item {
-    background: #737c7f;
+    background:#e7e7e7;
     font-family: 'Kodchasan', sans-serif;
-    color:white;
+    color:#c3c2c2;
     border-radius: 5%;
     padding: 4px;
     margin: 2px;
     &:visited {
-        color: white;
+        color: #c3c2c2;
         text-decoration: none;
     }
     &:hover {
-        color: white;
+        color: #c3c2c2;
         text-decoration: none;
         padding: 5px;
     }
