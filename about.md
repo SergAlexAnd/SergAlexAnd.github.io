@@ -2,6 +2,7 @@
 layout: page
 title: Обо мне
 permalink: /about/
+headerImage: true
 image: https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg
 ---
 
