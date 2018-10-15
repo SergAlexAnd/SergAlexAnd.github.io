@@ -3,6 +3,7 @@ layout: post
 title:  "Блог лето"
 date:   2018-06-01 15:58:00 +0000
 categories: жизнь
+category: blog
 comments: true
 ---
  Сегодня первый день лета <strong>2018</strong>. Утром было <span style="color:blue; font-weight:800">+4</span>, вышел побегать, капец замерз, я то думал что там тепло.<br/>

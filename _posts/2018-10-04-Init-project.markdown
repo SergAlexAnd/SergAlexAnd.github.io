@@ -8,6 +8,7 @@ tags:
 - git
 - npm
 - babel
+category: blog
 ---
 Заметки. Инициализация проекта
 ======
