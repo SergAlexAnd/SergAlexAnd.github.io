@@ -5,7 +5,7 @@ permalink: /about/
 image: https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg
 ---
 
-[myphoto](https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg)
+![myphoto](https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg)
 С августа 2018 года начал свой путь на [hexlet](https://ru.hexlet.io/u/coconut_alex){:target="_blank"}, пока не знаю, что из этого выйдет, завел блог, чтобы следить за своим прогрессом.  
 
 На момент написния этого текста мне 26 лет. Живу в Оренбурге. Работаю инженером по телекоммуникациям. Мечтаю стать программистом, чтобы создавать новое и заставлять компьютеры исполнять мои комманды:sunglasses:.
