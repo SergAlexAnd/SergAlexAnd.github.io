@@ -110,17 +110,17 @@ a {
     background: #737c7f;
     font-family: 'Kodchasan', sans-serif;
     color:white;
-    border-radius: 40%;
-    padding: 2px;
+    border-radius: 5%;
+    padding: 4px;
     margin: 2px;
     &:visited {
-        color: darken($brand-color, 15%);
+        color: white;
         text-decoration: none;
     }
     &:hover {
         color: white;
         text-decoration: none;
-        padding: 3px;
+        padding: 5px;
     }
 }
 
