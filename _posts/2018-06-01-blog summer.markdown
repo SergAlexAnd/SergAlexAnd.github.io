@@ -2,7 +2,6 @@
 layout: post
 title:  "Блог лето"
 date:   2018-06-01 15:58:00 +0000
-categories: жизнь
 category: blog
 comments: true
 ---
