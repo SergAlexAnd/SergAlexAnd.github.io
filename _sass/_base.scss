@@ -109,16 +109,16 @@ a {
 .item {
     background:#e7e7e7;
     font-family: 'Kodchasan', sans-serif;
-    color:#c3c2c2;
-    border-radius: 5%;
+    color:$tags-text;
+    border-radius: 15%;
     padding: 4px;
     margin: 2px;
     &:visited {
-        color: #c3c2c2;
+        color: $tags-text;
         text-decoration: none;
     }
     &:hover {
-        color: #c3c2c2;
+        color: $tags-text;
         text-decoration: none;
         padding: 5px;
     }
