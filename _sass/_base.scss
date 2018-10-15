@@ -111,14 +111,16 @@ a {
     font-family: 'Kodchasan', sans-serif;
     color:white;
     border-radius: 40%;
-    padding: 20%;
+    padding: 2px;
+    margin: 2px;
     &:visited {
         color: darken($brand-color, 15%);
         text-decoration: none;
     }
     &:hover {
-        color: $text-color;
+        color: white;
         text-decoration: none;
+        padding: 3px;
     }
 }
 
