@@ -3,7 +3,9 @@ layout: default
 ---
 
 {% if page.image and page.headerImage %}
-    <img class="title-image" align="left" src="{{ page.image }}" alt="{{ page.title }}">
+  <div class="title-image-container">
+    <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
+  </div>
 {% endif %}
 
 <article class="post">
