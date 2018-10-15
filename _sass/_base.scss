@@ -111,6 +111,10 @@ a {
     color:white;
     border-radius: 40%;
     padding: 20%;
+    &:visited {
+        color: darken($brand-color, 15%);
+        text-decoration: none;
+    }
 }
 
 /**
