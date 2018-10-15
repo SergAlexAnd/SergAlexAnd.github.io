@@ -35,6 +35,10 @@ layout: default
     </div>
 {% endif %}
 
+{% if site.related %}
+    {% include related.html %}
+{% endif %}
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
