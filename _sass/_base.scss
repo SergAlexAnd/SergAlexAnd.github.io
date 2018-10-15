@@ -120,14 +120,15 @@ a {
     }
 }
 
-
+.title-image-container{
+    float: left;
+}
 
 .title-image{
     max-height: 200px;
     border-radius: 5%;
     display: block;
     margin: 0 auto;
-    float:left;
 }
        
 
