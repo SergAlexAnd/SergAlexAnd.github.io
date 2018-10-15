@@ -18,3 +18,21 @@ instagram_username: sergienko_alexey_
 
 # Build settings
 markdown: kramdown
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+# do you want to show the "read time" of the posts?
+read-time: true
+# related posts inside a post?
+related: true
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
