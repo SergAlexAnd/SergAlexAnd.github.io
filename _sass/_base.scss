@@ -108,11 +108,16 @@ a {
 
 .item {
     background: #737c7f;
+    font-family: 'Kodchasan', sans-serif;
     color:white;
     border-radius: 40%;
     padding: 20%;
     &:visited {
         color: darken($brand-color, 15%);
+        text-decoration: none;
+    }
+    &:hover {
+        color: $text-color;
         text-decoration: none;
     }
 }
