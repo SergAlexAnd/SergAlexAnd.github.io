@@ -11,7 +11,7 @@ email: asergienko@bk.ru
 description: > # this means to ignore newlines until "baseurl:"
   Я просто тренируюсь делать сайты, и пользоваться github'ом, пока получается так себе.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://sergalexand.github.io" # the base hostname & protocol for your site
 twitter_username: alex_mhf
 github_username:  sergalexand
 instagram_username: sergienko_alexey_
