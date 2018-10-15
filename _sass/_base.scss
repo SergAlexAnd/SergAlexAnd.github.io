@@ -91,6 +91,20 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
+
+.blog-navigation{
+    font-size: 1.4rem;
+    display: block;
+    width: auto;
+    overflow: hidden;
+    a{
+     display: block;
+     width: 50%;
+     float: left;
+     margin: 1em 0;}
+ .next{
+     text-align: right;}
+}
 a {
     color: $brand-color;
     text-decoration: none;
