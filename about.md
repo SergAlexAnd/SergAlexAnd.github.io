@@ -1,16 +1,13 @@
 ---
 layout: page
-title: О нас
+title: Обо мне
 permalink: /about/
+image: https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg
 ---
 
-<img href="https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg"/>
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[myphoto](https://pp.userapi.com/c639323/v639323470/495ce/KluLie9DIds.jpg)
+С августа 2018 года начал свой путь на [hexlet](https://ru.hexlet.io/u/coconut_alex){:target="_blank"}, пока не знаю, что из этого выйдет, завел блог, чтобы следить за своим прогрессом.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+На момент написния этого текста мне 26 лет. Живу в Оренбурге. Работаю инженером по телекоммуникациям. Мечтаю стать программистом, чтобы создавать новое и заставлять компьютеры исполнять мои комманды:sunglasses:.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Катаюсь, на сноуборде, плаваю, и изучаю английский:muscle:

@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Бложек
+title: Giddy
 email: asergienko@bk.ru
-description: > # this means to ignore newlines until "baseurl:"
-  Я просто тренируюсь делать сайты, и пользоваться github'ом, пока получается так себе.
+description: Блог о программировании и жизни
+  Мой блог об изучении программирования, английского, и вообще о моей жизни
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sergalexand.github.io/" # the base hostname & protocol for your site
 twitter_username: alex_mhf
