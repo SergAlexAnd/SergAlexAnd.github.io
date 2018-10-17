@@ -37,7 +37,7 @@ permalink: /life/
 <div class="home">
 
   <ul class="post-list">
-    {% for post in category.life %}
+    {% for post in site.life %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y, " }} <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a></span>
         
