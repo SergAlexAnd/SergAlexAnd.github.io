@@ -9,7 +9,7 @@
 title: Giddy
 email: asergienko@bk.ru
 description: > # this means to ignore newlines until "baseurl:"
-  Мой блог об изучении программирования, английского, и вообще о моей жизни
+Мой блог об изучении программирования, английского, и вообще о моей жизни
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://giddy.me
 #url: "https://sergalexand.github.io/" # the base hostname & protocol for your site
