@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Мысли
+permalink: /life/
 ---
 
 <!-- Yandex.Metrika counter -->
