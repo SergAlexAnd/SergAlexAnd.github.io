@@ -17,6 +17,8 @@ twitter_username: alex_mhf
 github_username:  sergalexand
 instagram_username: sergienko_alexey_
 
+permalink: blog/:title.html
+
 # Build settings
 markdown: kramdown
 
